@@ -8,7 +8,7 @@ I have experience with the full-stack but I mainly work on the front-end. I have
 Languages and Tools:
 
 
-<img width="30px" height="30px" src="https://github.com/khaireddine24/khaireddine24/assets/152701264/213689f5-b80f-4d83-880d-73eacc2e919f">        
+<img width="30px" height="30px" src="https://github.com/khaireddine24/khaireddine24/assets/152701264/213689f5-b80f-4d83-880d-73eacc2e919f">       
 <img width="30px" height="30px" src="https://github.com/khaireddine24/khaireddine24/assets/152701264/7e40890d-91dc-40a6-ae4f-ef2fe6aae5e1">                                                              
 <img width="30px" height="30px" src="https://github.com/khaireddine24/khaireddine24/assets/152701264/64de74de-97fa-403d-a117-4b7b30b39e8b">
 <img width="30px" height="30px" src="https://github.com/khaireddine24/khaireddine24/assets/152701264/c1192059-0d9a-4084-a952-c95feb8e6ef4">
@@ -21,6 +21,7 @@ Languages and Tools:
 <img width="30px" height="30px" src="https://github.com/khaireddine24/khaireddine24/assets/152701264/97551931-b502-42b0-a734-346fa401ca99">
 <img width="30px" height="30px" src="https://github.com/khaireddine24/khaireddine24/assets/152701264/5f2aa329-4ab0-49d3-8dc0-cc7d9a6d647f">
 <img width="30px" height="30px" src="https://github.com/khaireddine24/khaireddine24/assets/152701264/9d393e26-a152-4015-963b-9fdf2f536586">
+<img width="30px" height="30px" src="https://github.com/khaireddine24/khaireddine24/assets/152701264/b7bf0862-b11c-4a5c-9c87-891bf57f8007">
 
 
 
