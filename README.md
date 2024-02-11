@@ -1,4 +1,4 @@
-Hi, I am Khaireddine, junior Developer
+Hi, I am Khaireddine
 
 I have experience with the full-stack but I mainly work on the front-end. I have built a lot of web and some mobile apps using various technologies especially React.js, React Native and Node.js. Also, I am always learning and experimenting with new technologies and other topics.
 
