@@ -14,6 +14,7 @@ Languages and Tools:
 <img width="30px" height="30px" src="https://github.com/khaireddine24/khaireddine24/assets/152701264/c1192059-0d9a-4084-a952-c95feb8e6ef4">
 <img width="30px" height="30px" src="https://github.com/khaireddine24/khaireddine24/assets/152701264/8a43cd6b-0a8f-4c69-8d65-cebeb06ea703">
 <img width="30px" height="30px" src="https://github.com/khaireddine24/khaireddine24/assets/152701264/bc1243cd-c7f7-4af0-b8f8-d468f8cc01ff">
+<img width="30px" height="30px" src="https://github.com/user-attachments/assets/b90498d5-0c5a-4756-839f-b4a86e45bc72">
 <img width="30px" height="30px" src="https://github.com/khaireddine24/khaireddine24/assets/152701264/daaaa431-998b-43e3-ae2d-c596149517c0">
 <img width="30px" height="30px" src="https://github.com/khaireddine24/khaireddine24/assets/152701264/1eca2e5c-c285-46fc-a14a-a28eca0e099b">
 <img width="30px" height="30px" src="https://github.com/khaireddine24/khaireddine24/assets/152701264/eaacf27b-bda7-4d1e-a0c3-49b797d58f95">
