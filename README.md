@@ -26,8 +26,7 @@
 ```ts
 const khaireddine = {
   name:       "Khaireddine",
-  role:       "Full-Stack Developer",
-  location:   "Tunisia 🇹🇳",
+  role:       "Full-Stack Developer/Instructor",
   experience: ["Web Apps", "Mobile Apps"],
   stack: {
     frontend:  ["React.js", "Next.js", "React Native"],
@@ -147,6 +146,6 @@ const khaireddine = {
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
-<sub>⚡ Built with passion by <strong>Khaireddine</strong> — powered by coffee & curiosity ☕</sub>
+<sub>⚡ Built with passion by <strong>Khaireddine</strong> </sub>
 
 </div>
