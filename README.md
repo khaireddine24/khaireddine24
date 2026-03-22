@@ -22,12 +22,12 @@
 
 ```ts
 const khaireddine = {
-  name:       "Khaireddine",
-  role:       "Full-Stack Developer",
+  name:       "Khaireddine Ihrissane",
+  role:       "Full-Stack Developer / Instructor",
   location:   "Tunisia 🇹🇳",
   experience: ["Web Apps", "Mobile Apps"],
   stack: {
-    frontend:  ["React.js", "Next.js", "React Native"],
+    frontend:  ["React.js", "Next.js", "React Native","Computer Science Instructor"],
     backend:   ["Node.js", "Laravel", "PHP"],
     databases: ["MySQL", "PostgreSQL", "MongoDB"],
   },
@@ -127,7 +127,7 @@ const khaireddine = {
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/khaireddine24">
+<a href="https://www.linkedin.com/in/khaireddine-ihrissane-687898236">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
