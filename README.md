@@ -3,9 +3,10 @@ Hi, I am Khaireddine
 I have experience with the full-stack. I have built a lot of web and some mobile apps using various technologies especially React.js/Next.js,React Native,Laravel/PHP and Node.js. Also, I am always learning and experimenting with new technologies and other topics.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaireddine24)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaireddine24&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaireddine24&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaireddine24&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaireddine24)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
