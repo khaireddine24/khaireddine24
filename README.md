@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Khaireddine&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Web%20%26%20Mobile&descAlignY=60&descAlign=50&descSize=20" />
-
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;React.js+%2F+Next.js+Enthusiast+%E2%9A%9B%EF%B8%8F;React+Native+Mobile+Dev+%F0%9F%93%B1;Laravel+%2F+PHP+Backend+Engineer+%F0%9F%90%98;Node.js+%2F+Express+Developer+%F0%9F%9F%A2;Always+Learning+New+Things+%F0%9F%A7%A0" alt="Typing SVG" />
@@ -26,7 +23,8 @@
 ```ts
 const khaireddine = {
   name:       "Khaireddine",
-  role:       "Full-Stack Developer/Instructor",
+  role:       "Full-Stack Developer",
+  location:   "Tunisia 🇹🇳",
   experience: ["Web Apps", "Mobile Apps"],
   stack: {
     frontend:  ["React.js", "Next.js", "React Native"],
@@ -125,7 +123,7 @@ const khaireddine = {
 
 <div align="center">
 
-<a href="mailto:khaireddine@example.com">
+<a href="mailto:ihrissanek@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
@@ -142,9 +140,6 @@ const khaireddine = {
 ---
 
 <div align="center">
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
 <sub>⚡ Built with passion by <strong>Khaireddine</strong> </sub>
 
